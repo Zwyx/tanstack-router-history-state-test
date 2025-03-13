@@ -1,0 +1,1 @@
+Testing TanStack Router for typed history state. See `main.tsx`. It's nice, although a bit more limited than the `useHistoryState` that I made with React Router in the [Library of Babel](https://github.com/Zwyx/library-of-babel) and [Detrak](https://github.com/Zwyx/detrak), which allows each component to provide its own types.
